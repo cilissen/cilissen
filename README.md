@@ -8,7 +8,6 @@
  - Game Development
 
 ### Basic Knowledge of
- - Blender
  - C#
  - C++
  - JavaScript
