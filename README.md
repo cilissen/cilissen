@@ -4,8 +4,8 @@
 
 ### Interested in
  - Artificial Intelligence
- - Windows Application Development
  - Game Development
+ - Windows Application Development
 
 ### Basic Knowledge of
  - C#
