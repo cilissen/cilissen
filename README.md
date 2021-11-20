@@ -10,7 +10,6 @@
 ### Basic Knowledge of
  - C#
  - C++
- - JavaScript
  - Python
  - Unity
  - Visual Basic .NET
