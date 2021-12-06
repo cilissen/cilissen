@@ -9,5 +9,6 @@
 
 ### Basic Knowledge of
  - C++
+ - HTML
  - Java
  - Python
