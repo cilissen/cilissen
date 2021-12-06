@@ -5,10 +5,9 @@
 ### Profecient in
  - C#
  - Unity
- - Visual Basic .NET
 
 ### Basic Knowledge of
  - C++
+ - Git
  - HTML
- - Java
  - Python
