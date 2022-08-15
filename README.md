@@ -1,6 +1,3 @@
-### Currently studying
- - Mathematics
-
 ### Profecient in
  - C#
  - Python
@@ -11,4 +8,3 @@
  - Django
  - Git
  - HTML
- - Python
