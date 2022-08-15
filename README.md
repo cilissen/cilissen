@@ -1,9 +1,9 @@
 ### Currently studying
  - Mathematics
- - Python
 
 ### Profecient in
  - C#
+ - Python
  - Unity
 
 ### Basic Knowledge of
