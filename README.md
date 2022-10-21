@@ -4,6 +4,7 @@
  - Unity
 
 ## Basic Knowledge of
+ - Blender
  - C++
  - CSS
  - Django
