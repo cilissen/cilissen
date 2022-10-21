@@ -1,4 +1,4 @@
-## Profecient in
+## Proficient in
  - C#
  - Python
  - Unity
