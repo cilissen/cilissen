@@ -10,4 +10,5 @@
  - Django
  - Git
  - HTML
+ - Pixel Art
  
